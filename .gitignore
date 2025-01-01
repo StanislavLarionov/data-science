@@ -1,0 +1,5 @@
+# Ігнорування середовища myenv
+/myenv/
+/.vscode/
+/.vs/
+/.venv/
